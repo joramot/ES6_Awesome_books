@@ -43,5 +43,3 @@ export default class BookList {
     }
   }
 }
-
-// const bookList = new BookList()

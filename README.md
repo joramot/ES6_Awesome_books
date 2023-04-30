@@ -103,9 +103,9 @@ Clone the repository using git, and open it with visual studio code.
 Clone this repository to your desired folder:
 
   cd "your-folder"
-  git clone [https://github.com/joramot/ES6_Awesome_books.git]
+  git clone [https://joramot.github.io/ES6_Awesome_books/]
 
-  git clone [git@github.com:https://github.com/joramot/ES6_Awesome_books.git]
+  git clone [git@github.com:https://joramot.github.io/ES6_Awesome_books/]
 
 
 ### Usage

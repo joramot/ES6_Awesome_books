@@ -1,0 +1,122 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+.date {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  justify-content: flex-end;
+  font-family: 'Latp', sans-serif;
+  font-weight: bold;
+}
+
+h1,
+h2,
+li {
+  text-align: center;
+  font-family: Lato, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  border: solid 1px black;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 3rem;
+  padding: 0 1rem;
+  align-items: center;
+}
+
+.header ul {
+  display: flex;
+  gap: 1rem;
+}
+
+.header ul li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  border: solid 1px black;
+  margin-top: 1rem;
+  padding: 1rem 0;
+}
+
+.add-book {
+  display: none;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-book form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.add-book form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.bookList {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 10px;
+}
+
+.lineBook {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 1px solid gray;
+  padding: 5px;
+  background-color: beige;
+}
+
+.contact {
+  margin: 3rem;
+  width: 80%;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  border: solid 1px black;
+}
+
+.contact p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.form-book {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.input {
+  height: 40px;
+  font-size: 20px;
+}

@@ -103,9 +103,9 @@ Clone the repository using git, and open it with visual studio code.
 Clone this repository to your desired folder:
 
   cd "your-folder"
-  git clone [https://github.com/joramot/ES6_Awesome_books.git]
+  git clone [https://joramot.github.io/ES6_Awesome_books/]
 
-  git clone [git@github.com:https://github.com/joramot/ES6_Awesome_books.git]
+  git clone [git@github.com:https://joramot.github.io/ES6_Awesome_books/]
 
 
 ### Usage
@@ -177,7 +177,7 @@ I would like to thank Microverse and all the persons that got in touch with me w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] (./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
